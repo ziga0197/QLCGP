@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.8" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JInternalFrameFormInfo">
+  <Properties>
+    <Property name="closable" type="boolean" value="true"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane1" alignment="0" pref="737" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane1" alignment="0" pref="475" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="------------------&#xa;System Information&#xa;------------------&#xa;Machine name&#x9;: MY-PC&#xa;Operating System&#x9;: Windows 8.1 Pro 64-bit (6.3, Build 9600) (9600.winblue_ltsb.160723-0600)&#xa;Language&#x9;&#x9;: Vietnamese (Regional Setting: Vietnamese)&#xa;System Manufacturer&#x9;: Dell Inc.&#xa;System Model&#x9;&#x9;: Inspiron 5547&#xa;BIOS&#x9;&#x9;: InsydeH2O Version 03.73.02A05&#xa;Processor&#x9;&#x9;: Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz (4 CPUs), ~2.6GHz&#xa;Memory&#x9;&#x9;: 8192MB RAM&#xa;Available OS Memory&#x9;: 8080MB RAM&#xa;Page File&#x9;&#x9;: 6060MB used, 4131MB available&#xa;Windows Dir&#x9;&#x9;: C:\u005cWindows&#xa;DirectX Version&#x9;: DirectX 11&#xa;------------------&#xa;Sofware information&#xa;------------------&#xa;Java&#x9;&#x9;: 8&#xa;Netbeans&#x9;&#x9;: 8.2&#xa;SQL server&#x9;&#x9;: 2012&#xa;Git&#x9;&#x9;: 2.14.1&#xa;------------------&#xa;Copyright &#xa9; 2017 SuperFourTeam.&#xa;&#xa;&#xa;&#xa;" containsInvalidXMLChars="true"/>
+            <Property name="wrapStyleWord" type="boolean" value="true"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
